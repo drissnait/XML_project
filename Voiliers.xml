@@ -1,0 +1,32 @@
+<?xml version ="1.0" encoding ="utf-8" ?>
+<?xml-stylesheet type="application/xml" href="Voiliers-v1.xsl" ?>
+<voiliers>
+	
+	<voilier>
+		<nom>LAMOTTE-MODULE CREATION</nom>
+		<architecte>Sam Manuard</architecte>
+		<photo adresse ="LAMOTTE-moduleCreation.jpg"/>
+		<skipper>
+			<nom_skipper>Luke BERRY</nom_skipper>
+			<texte><nom_skipper>Sam Manuard</nom_skipper>Après avoir régaté au plus haut niveau en funboard et en Formula Windsurfing,
+			Luke Berry prend le virage de la course au large en 2012. Dès lors, il se lance sur le circuit des Mini 6.50 où, pendant trois
+			ans, il cumule les succès en montant sur les podiums de quasiment toutes 
+			les épreuves auxquelles il participe, y compris à la fameuse Mini Transat en 2015 sur laquelle il s’adjuge une jolie deuxième
+			place chez les prototypes</texte>
+		</skipper>
+	</voilier>
+
+	<voilier>
+		<nom> OLMIX</nom>
+		<architecte>Bruno Louit </architecte>
+		<photo adresse ="OLMIX.jpg"/>
+		<skipper>
+			<nom_skipper>Pierre ANTOINE</nom_skipper>
+			<texte><nom_skipper>Pierre ANTOINE</nom_skipper>Géologue de formation, directeur de recherche au CNRS et skipper chevronné, Pierre Antoine prend part 
+			pour la quatrième fois à la Route du Rhum – Destination 
+			Guadeloupe. Et s’il s’y est régulièrement illustré,
+			remportant notamment l’édition 2006 en Multi Classe 3, le Douaisien d’origine garde cependant un goût un peu amer de sa dernière participation.</texte>
+		</skipper>
+	</voilier>
+	
+</voiliers>
